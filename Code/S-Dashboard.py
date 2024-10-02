@@ -191,7 +191,7 @@ except Exception:
     st.markdown(
         """
         <div style="display: flex; justify-content: center; align-items: center;">
-            <h3 style="color: grey;">This data will not workout here :)</h3>
+            <h3 style="color: grey;">Welcome in DataXplore :)</h3>
         </div>
         """, 
         unsafe_allow_html=True
