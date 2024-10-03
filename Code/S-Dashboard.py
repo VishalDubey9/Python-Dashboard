@@ -138,7 +138,7 @@ try:
     st.subheader("Hierarchical view of Sales using TreeMap")
     fig3 = px.treemap(filtered_df, path=["Region", "Category", "Sub-Category"], values="Sales", hover_data=["Sales"],
                       color="Sub-Category")
-    fig3.update_layout(width=800, height=650)
+    fig3.update_layout(width=600, height=500)
     st.plotly_chart(fig3, use_container_width=True)
     
     # Create two columns for segment and category pie charts
