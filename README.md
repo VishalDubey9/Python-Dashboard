@@ -1,5 +1,3 @@
-
-
 🚀 DataXplore: Interactive Superstore EDA Tool 📊
 
 I developed an advanced data exploration tool using Streamlit and Plotly, aimed at providing deep insights into retail data, specifically focusing on a Superstore dataset. This application enables users to interactively analyze sales, profits, and various demographic factors, facilitating data-driven decision-making.
